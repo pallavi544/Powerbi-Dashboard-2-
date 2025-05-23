@@ -40,5 +40,9 @@ To explore the dashboard:
 
 * If applicable, open the associated Power BI (.pbix) file in Power BI Desktop to interact with the dashboard.
 
+### 🔗 View the Dashboard Report
+
+ **[Click here to open the Power BI Dashboard (PDF)](https://github.com/pallavi544/Powerbi-Dashboard-2-/blob/main/power%20bi%20project%202.pdf)**
+
 
 
