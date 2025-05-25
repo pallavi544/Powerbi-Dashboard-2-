@@ -1,35 +1,72 @@
-# Powerbi-Dashboard-2
-The dashboard is crafted to offer a holistic view of business performance, enabling stakeholders to monitor trends, identify opportunities, and make informed decisions. It integrates data from multiple sources, ensuring a unified and coherent representation of critical information.
+# Power BI Sales Dashboard Project
+This project presents a Sales Dashboard built using Microsoft Power BI to provide actionable insights into the performance of sales across categories, states, and time periods. It demonstrates strong data visualization, storytelling, and analytical capabilities—perfect for business stakeholders who need a quick overview of key performance indicators (KPIs).
 
-## Objectives
-* To demonstrate proficiency in data visualization using Power BI.
+---
 
-* To provide a tool that aids in strategic planning and performance evaluation.
+## Dashboard Overview
+The dashboard provides a comprehensive summary of sales data through the following visuals:
 
-* To facilitate a deeper understanding of business operations through data analysis.
+## KPIs
+* Total Sales: 2M
 
-## Key Features
-* Interactive Visualizations: Dynamic charts and graphs that allow users to explore data in real-time.
+* Total Cost: 438K
 
-* KPI Monitoring: Tracking of essential performance indicators to assess business health.
+* Total Profit: 37K
 
-* Data Filtering: Slicers and filters enable customized data views tailored to specific needs.
+* Average Sales: 1.45K
 
-* User-Friendly Interface: Intuitive layout designed for seamless navigation and interpretation.
+## Visuals Used
+1.Total Sales by Category (Donut Chart)
+- Visualizes the proportion of sales from Electronics, Clothing, and Furniture.
 
-## Tools and Technologies
-* Power BI Desktop: For designing and developing the dashboard.
+2.Total Sales by State (Bar Chart)
+- Highlights top-performing states like Maharashtra and Madhya Pradesh.
 
-* Data Sources: Integration of various datasets to provide comprehensive insights.
+3.Sales Trend (Line Chart)
+- Shows monthly sales trends across the year 2018.
 
-* DAX (Data Analysis Expressions): Utilized for creating calculated columns and measures to enhance data analysis.
+4.Total Sales Gauge
+- Gives a quick glance at the current sales performance against target.
 
-## Tools and Technologies
-* Power BI Desktop: For designing and developing the dashboard.
+5.Quantity Sold by Category (Donut Chart)
+- Shows item quantity distribution per category.
 
-* Data Sources: Integration of various datasets to provide comprehensive insights.
+6.Profit by Category (Bar Chart)
+- Indicates profit distribution among categories.
 
-* DAX (Data Analysis Expressions): Utilized for creating calculated columns and measures to enhance data analysis.
+7.Profit by State (Tree Map)
+- Color-coded tree map to compare profit contributions by each state.
+
+## Key Insights
+* Electronics contribute the highest to sales (~33.3%).
+
+* Maharashtra and Madhya Pradesh are top-performing states in both sales and profit.
+
+* Clothing has the highest total profit among the three categories.
+
+* Consistent sales spikes occur around March, July, and November 2018, indicating potential seasonal trends.
+
+---
+
+## Tools Used
+* Power BI Desktop
+
+* Microsoft Excel (for raw data)
+
+* DAX (for custom KPIs and calculated fields)
+
+* Data Modeling (used star schema where applicable)
+
+---
+
+## Purpose of the Project
+* To practice data visualization and dashboarding in Power BI.
+
+* To provide business decision-makers with a real-time sales snapshot.
+
+* To demonstrate practical BI skills for interviews or portfolio presentation.
+
+---
 
 ##  Getting Started
 To explore the dashboard:
